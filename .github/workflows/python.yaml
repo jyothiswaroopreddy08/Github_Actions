@@ -31,4 +31,4 @@ jobs:
         run: pip install Flask
 
       - name: Run Python script
-        run: python my_script.py
+        run: python script.py
